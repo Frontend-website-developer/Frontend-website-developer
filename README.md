@@ -42,7 +42,7 @@ I build fast, responsive, and modern web applications. Passionate about clean UI
 
 - 📧 Email: **ssajidali.dev@gmail.com**
 - 💼 LinkedIn: [https://www.linkedin.com/in/syed-sajid-ali-front-end-developer/](https://www.linkedin.com/in/syed-sajid-ali-front-end-developer/)
-- 🌐 Portfolio: [https://portfolio-developer-website.netlify.app/](#)
+- 🌐 Portfolio: [https://portfolio-developer-website.netlify.app/]([portfolio-developer-website.netlify.app](https://portfolio-developer-website.netlify.app/))
 
 ---
 
