@@ -25,7 +25,7 @@ I build fast, responsive, and modern web applications. Passionate about clean UI
 
 | Project | Description | Tech | Live Demo |
 |---------|-------------|------|-----------|
-| [Portfolio Website](https://github.com/Frontend-website-developer/Portfolio-Website) | Personal portfolio with responsive design, portfolio showcase & contact form | HTML, CSS, JS | [View Live](#) |
+| [Portfolio Website](https://github.com/Frontend-website-developer/Portfolio-Website) | Personal portfolio with responsive design, portfolio showcase & contact form | HTML, CSS, JS | [View Live](https://portfolio-developer-website.netlify.app/) |
 | [Next.js Project](https://github.com/Frontend-website-developer/nextjs-project) | Modern web app built with Next.js & TypeScript | Next.js, TypeScript | [View Live](#) |
 | [React API App](https://github.com/Frontend-website-developer/react-project-api-fetching) | React app with REST API integration & dynamic data rendering | React, REST API | [View Live](#) |
 
